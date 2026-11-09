@@ -2,6 +2,8 @@
 
 **最新版 / Dernière version / Latest:** <https://github.com/c2-app/c2-releases/releases/latest>
 
+**官网 / Site / Website:** <https://c2-app.github.io/c2-releases/>
+
 已经装好的 C2 会自己提示更新，一般不用来这里下载。第一次使用需要管理员给的**邀请码**。
 
 | 系统 | 下载哪个文件 |
